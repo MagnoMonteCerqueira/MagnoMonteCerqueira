@@ -59,7 +59,7 @@ de uma empresa,
 ---
 
 ### 🚀 Estatísticas do Github.
-![Infraestrutura de ti com ênfase em zabbix!](https://github-readme-stats.vercel.app/api?username=treinamentos2mti&show_icons=true)
+![Infraestrutura de ti com ênfase em zabbix!](https://github-readme-stats.vercel.app/api?username=MagnoMonteCerqueira&show_icons=true)
 
 ---
 

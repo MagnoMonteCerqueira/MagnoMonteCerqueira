@@ -50,11 +50,11 @@ de uma empresa,
 ---
 
 #### 🚀 Conteúdos do Github do treinamento!
-✅ [Badges](https://github.com/treinamentos2mti/Badges)
+✅ [Badges](https://github.com/MagnoMonteCerqueira/Badges)
 
-✅ [Emojis](https://github.com/treinamentos2mti/Emojis-)
+✅ [Emojis](https://github.com/MagnoMonteCerqueira/Emojis-)
 
-✅ [Infraestrutura de ti com ênfase em zabbix 6.0](https://github.com/treinamentos2mti/infraestrutura-de-ti-com-enfase-em-zabbix-6.0)
+✅ [Infraestrutura de ti com ênfase em zabbix 6.0](https://github.com/MagnoMonteCerqueira/infraestrutura-de-ti-com-enfase-em-zabbix-6.0)
 
 ---
 

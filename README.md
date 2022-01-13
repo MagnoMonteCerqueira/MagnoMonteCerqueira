@@ -1,6 +1,6 @@
 ### Olá, Sou Magno Monte Cerqueira.
 
-Com mais de de 19 anos de experiência na área. Especializado em administrar equipamentos de marcas famosas como Cisco, DELL e HP. Além disso, tem vivência em ambientes de nuvem híbrida (cloud e on premise).Atua como consultor de infraestrutura, prestando atendimento de excelência nas áreas de redes, segurança da informação, monitoramento avançado, servidores on premise e recursos de cloud computing.
+Com mais de de 19 anos de experiência na área de infraestrutura de TI. Especializado em administrar equipamentos de marcas famosas como Cisco, DELL e HP. Além disso, tem vivência em ambientes de nuvem híbrida (cloud e on premise).Atua como consultor de infraestrutura, prestando atendimento de excelência nas áreas de redes, segurança da informação, monitoramento avançado, servidores on premise e recursos de cloud computing.
 
 
 #### Siga-me nas redes sociais.

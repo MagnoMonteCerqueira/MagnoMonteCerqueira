@@ -65,13 +65,17 @@ de uma empresa,
 ---
 
 
-#### 🚀 Projetos com Zabbix!
-✅ [ZABBIX-Open Source Monitoring Software for Automotive Monitoring](https://github.com/MagnoMonteCerqueira/ZABBIX---Open-Source-Monitoring-Software-for-Automotive-Monitoring)
+#### 🚀 Meus projetos com Zabbix!
 
 ✅ [ZABBIX-Open Source inventory Software for infraestruture Monitoring](https://github.com/MagnoMonteCerqueira/ZABBIX---Open-Source-Inventory-Software-for-Infraestruture-Monitoring)
 
 ---
+#### 🚀 Projetos da comunidade Zabbix!
+✅ [ZABBIX-Open Source Monitoring Software for Automotive Monitoring](https://github.com/MagnoMonteCerqueira/ZABBIX---Open-Source-Monitoring-Software-for-Automotive-Monitoring)
 
+
+
+---
 
 ### 🚀 Estatísticas do Github.
 ![Infraestrutura de ti com ênfase em zabbix!](https://github-readme-stats.vercel.app/api?username=MagnoMonteCerqueira&show_icons=true)

@@ -20,8 +20,6 @@ Com mais de de 19 anos de experiência na área de infraestrutura de TI. Especia
   <a href="https://github.com/MagnoMonteCerqueira" alt="LinkTree">
     <img src="https://activity-graph.herokuapp.com/graph?username=MagnoMonteCerqueira&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"></a><br><br>
 
- ---
- 
 
 ---
 ### Github criado para compartilhar material com os alunos do treinamento de Infraestrutura de TI com ênfase em Zabbix!

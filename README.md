@@ -14,6 +14,8 @@ Com mais de de 19 anos de experiência na área de infraestrutura de TI. Especia
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnoMonteCerqueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  <a href="https://linktr.ee/aminol9" alt="LinkTree">
+    <img src="https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"></a><br><br>
 ---
 ### Infraestrutura de TI com ênfase em Zabbix!
 ```diff

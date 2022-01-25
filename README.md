@@ -38,7 +38,21 @@ Com mais de de 19 anos de experiência na área de infraestrutura de TI. Especia
 
 ✅ [Sympla - Total de alunos 0](https://www.sympla.com.br/eventos?s=zabbix&tab=eventos)
 
+
 ---
+
+#### 🚀 Treinamentos gratuitos!
+
+✅ [Treinamento base redes de computadores para Zabbix](https://treinamentobaseredesdecomputadoreszbx.club.hotmart.com/)
+
+
+✅ [Treinamento base Zabbix 5.0/5.2](https://treinamentobasezabbix5.club.hotmart.com/)
+ 
+
+✅ [Treinamento base Zabbix 5.4/6.0](https://treinamentobasezabbix6.club.hotmart.com/)
+
+---
+
 
 #### 🚀 Treinamentos avançados!
 

@@ -7,6 +7,13 @@ Com mais de de 19 anos de experiência na área de infraestrutura de TI. Especia
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/magnomontecerqueira?sub_confirmation=1)](https://www.youtube.com/magnomontecerqueira?sub_confirmation=1) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/MagnoMonteCerqueira)](https://www.facebook.com/MagnoMonteCerqueira) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/magnomontecerqueira/)](https://www.linkedin.com/in/magnomontecerqueira/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/magnomontecerqueira/)](https://www.instagram.com/magnomontecerqueira/) [![Canal Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/+VX1MrWlXIreS3d91)](https://t.me/+VX1MrWlXIreS3d91)
 
 ---
+ <div>
+  <a href="https://github.com/MagnoMonteCerqueira">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MagnoMonteCerqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagnoMonteCerqueira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
 ### Infraestrutura de TI com ênfase em Zabbix!
 ```diff
 O curso "Infraestrutura de TI com ênfase em Zabbix" tem por objetivo capacitar o aluno a dominar 

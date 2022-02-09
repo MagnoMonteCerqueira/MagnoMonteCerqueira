@@ -68,7 +68,7 @@ Com mais de de 19 anos de experiência na área de infraestrutura de TI. Especia
 
 ✅ [Emojis](https://github.com/MagnoMonteCerqueira/Emojis-)
 
-✅ [Infraestrutura de ti com ênfase em zabbix 6.0](https://github.com/MagnoMonteCerqueira/infraestrutura-de-ti-com-enfase-em-zabbix-6.0)
+✅ [Infraestrutura de ti com ênfase em zabbix 6.0](https://github.com/MagnoMonteCerqueira/infraestrutura-de-ti-zabbix-6.0-)
 
 ---
 

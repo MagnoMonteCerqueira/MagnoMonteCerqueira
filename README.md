@@ -95,3 +95,18 @@ Com mais de de 19 anos de experiência na área de infraestrutura de TI. Especia
 | <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>| +55 21-99335-9932| 
 
  
+ ---
+ ##
+ ## Linguagens Estudadas :man_student:
+  
+<div style="display: inline_block"><br>  
+  <img align="center" alt="Cristiano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cristiano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Cristiano-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cristiano-React-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+  
+  ##
+ 
+ ## 
+  ![gif programming](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
